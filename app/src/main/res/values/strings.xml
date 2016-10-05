@@ -1,0 +1,19 @@
+<resources>
+    <!-- Main Menu Titles -->
+    <string name="app_name">The Vault</string>
+    <string name="action_add_note">Add Note</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Fragment Title Strings -->
+    <string name="viewFragmentTitle">View Note</string>
+    <string name="editFragmentTitle">Edit Note</string>
+    <string name="create_fragment_title">Create Note</string>
+    <string name="title_preferences">Application Settings</string>
+
+    <!-- Main List Long Click Context Menu -->
+    <string name="edit_menu">Edit</string>
+    <string name="delete_menu">Delete</string>
+
+    <!-- Fragment Widget Strings -->
+    <string name="save_note_button">Save Note</string>
+</resources>
